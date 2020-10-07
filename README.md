@@ -1,6 +1,6 @@
 ### Hola, I'm Abhijeet Jain ! 👋
 
-- 🔭 I’m currently working on Machine Learning Algorithms.
+- 🔭 I’m currently working on Machine Learning Algorithms and creating web application for financial services.
 - 🌱 I’m currently learning Python, Sql and R
 - 👯 I’m looking to collaborate on Data Science
 - 🤔 I’m looking for help with Web Application, Data Munging and Machine Learning
